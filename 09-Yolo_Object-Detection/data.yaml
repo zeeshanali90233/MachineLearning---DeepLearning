@@ -1,0 +1,17 @@
+# data.yaml
+train: ./fruits/train/images
+val: ./fruits/test/images
+
+nc: 10  # number of classes
+
+names:
+  - Banana
+  - Jackfruit
+  - Mango
+  - Litchi
+  - Hog Plum
+  - Papaya
+  - Grapes
+  - Apple
+  - Orange
+  - Guava

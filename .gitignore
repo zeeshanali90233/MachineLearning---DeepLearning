@@ -1,0 +1,12 @@
+#any venv and .venv excklud
+
+venv/
+.venv/
+
+Dataset
+
+fruits
+
+training_checkpoints_cnn
+
+training_checkpoints_rnn
