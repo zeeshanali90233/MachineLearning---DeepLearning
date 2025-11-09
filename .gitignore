@@ -7,6 +7,10 @@ Dataset
 
 fruits
 
+email_combined_data.csv
+
 training_checkpoints_cnn
 
 training_checkpoints_rnn
+
+data.csv
